@@ -24,8 +24,12 @@
                 href="title.html"
                 media-type="application/xhtml+xml" />
         <item
-                id="cap01"
+                id="chap01"
                 href="component/chap01.html"
+                media-type="application/xhtml+xml" />
+        <item
+                id="chap02"
+                href="component/chap02.html"
                 media-type="application/xhtml+xml" />
         <item
                 id="cover-image"
